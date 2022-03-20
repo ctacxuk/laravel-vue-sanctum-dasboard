@@ -20,4 +20,3 @@ Route::get('{path}', function () {
 
 
 
-
