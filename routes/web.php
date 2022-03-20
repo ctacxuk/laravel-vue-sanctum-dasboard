@@ -18,11 +18,6 @@ Route::get('{path}', function () {
 })->where('path', '.*');
 
 
-//Route::get('/dashboard', function () {
-//    return view('dashboard');
-//})->middleware(['auth'])->name('dashboard');
-
-
 
 
 
